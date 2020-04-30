@@ -1,2 +1,2 @@
-# react-redux_app_skeleton
-Skeleton to use for any application that utilizes react/redux.
+# not-your-mothers-cookbook
+Web application for easy and convenient recipe maker.
